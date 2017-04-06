@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_blue">#33adff</color>
+    <color name="text_blue">#00bcfc</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_transcation">#80000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#0ff0ff</color>
+    <color name="gray">#666666</color>
+    <color name="gray2">#646464</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="light_blank">#E6E6E6</color>
+    <color name="list_devider">#c0c3cc</color>
+    <color name="white_selected">#efebf5</color>
+    <color name="button_select">#aa33adff</color>
+    <color name="button_normal">#33adff</color>
+    <color name="button_green_select">#239f75</color>
+    <color name="button_green_normal">#36dea5</color>
+    <color name="button_red_select">#CD0000</color>
+    <color name="button_red_normal">#FF0000</color>
+    <color name="cancel_select">#aaF93F25</color>
+    <color name="cancel_normal">#F93F25</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+
+</resources>

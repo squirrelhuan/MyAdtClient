@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_exit.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\back_exit.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_enter.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\back_enter.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scaling_big.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\scaling_big.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_exit.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_enter.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\anim_enter.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scaling_small.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\scaling_small.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "D:\\workspaceAS\\MyAdtClient\\app\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\MyAdtClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35007e3eaa8f212ba5855e4b27c3f043c219a60b\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]
