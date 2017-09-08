@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.huan.myadtclient"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 23
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
@@ -23,5 +23,7 @@ android {
 }
 
 dependencies {
+    compile fileTree(dir: 'libs',includes: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
+    compile project(':myadtlibrary')
 }

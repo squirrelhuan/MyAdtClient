@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\c347c843271b30bfc1ff8b250ce43626f2e03071\output\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\Android\workspace\AndroidStudioProjects\MyAdtClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\workspaceAS\MyAdtClient\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4dc882fe030b3ac390ebfe775282265282f9c42c.jar" />
+        sha1="825edeed2fc68c10d141baa1b49cb0b398f2074e">
+        <dex dex="D:\Android\workspace\AndroidStudioProjects\MyAdtClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e48fc1d2026c96f6ed7e6391420e3bfceedae46\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Android\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\Android\workspace\AndroidStudioProjects\MyAdtClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="D:\workspaceAS\MyAdtClient\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_d06e36902885f789900c19723b4e4aef94195d8f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\c347c843271b30bfc1ff8b250ce43626f2e03071\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\workspaceAS\MyAdtClient\app\build\intermediates\pre-dexed\debug\classes_e020494eb4007f761b873d391c2e0c76f1b3bab3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\35007e3eaa8f212ba5855e4b27c3f043c219a60b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="D:\workspaceAS\MyAdtClient\app\build\intermediates\pre-dexed\debug\classes_8d7f71e3004fa50fdf27fbf06aa6ad46b37e08ad.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\workspace\AndroidStudioProjects\MyAdtClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53d6cf83723c551a50d342a78a0131e42f55e596\classes.dex" />
     </item>
 
 </items>
